@@ -39,4 +39,4 @@ Semua data mahasiswa ditampilkan dalam bentuk tabel yang rapi.
 ![foto]
 
 ## Hasil Output 
-![foto]
+![foto](https://github.com/aprilia55/labpy4/blob/f624e6c02442f1244821865ee00eab3b3c229b32/Screen%20Shot%202024-11-18%20at%2011.32.26.png)
