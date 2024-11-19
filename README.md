@@ -118,14 +118,14 @@ Format angka : Nilai tugas, UTS, UAS, dan nilai akhir ditampilkan dengan dua ang
 ```python
 
 Masukkan data mahasiswa:
-Nama: Budi
+Nama: april
 Nilai Tugas (0-100): 85
 Nilai UTS (0-100): 88
 Nilai UAS (0-100): 90
 Apakah ingin menambahkan data lagi? (y/t): y
 
 Masukkan data mahasiswa:
-Nama: Siti
+Nama: safa
 Nilai Tugas (0-100): 75
 Nilai UTS (0-100): 80
 Nilai UAS (0-100): 85
@@ -133,7 +133,7 @@ Apakah ingin menambahkan data lagi? (y/t): t
 
 ```
 ## Flow Chart 
-![foto]
+![foto](https://github.com/aprilia55/labpy4/blob/8b2fed1209896a40976a259fd07261405b33f2d6/WhatsApp%20Image%202024-11-18%20at%2021.16.50.jpeg)
 
 ## Hasil Output 
 ![foto](https://github.com/aprilia55/labpy4/blob/f624e6c02442f1244821865ee00eab3b3c229b32/Screen%20Shot%202024-11-18%20at%2011.32.26.png)
