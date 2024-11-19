@@ -118,7 +118,7 @@ Format angka : Nilai tugas, UTS, UAS, dan nilai akhir ditampilkan dengan dua ang
 ```python
 
 Masukkan data mahasiswa:
-Nama: april
+Nama: aprilia putri
 Nilai Tugas (0-100): 85
 Nilai UTS (0-100): 88
 Nilai UAS (0-100): 90
