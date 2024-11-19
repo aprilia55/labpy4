@@ -107,11 +107,11 @@ for i, mahasiswa in enumerate(data_mahasiswa, start=1):
 print("=" * 50)
 
 ```
-Header tabel: Program mencetak nama kolom seperti nomor, nama, tugas, UTS, UAS, dan nilai akhir.
+Header tabel : Program mencetak nama kolom seperti nomor, nama, tugas, UTS, UAS, dan nilai akhir.
 
-Pengisian data: Menggunakan `enumerate` untuk memberikan nomor urut dan mengakses setiap `data mahasiswa` di list data_mahasiswa.
+Pengisian data : Menggunakan `enumerate` untuk memberikan nomor urut dan mengakses setiap `data mahasiswa` di list data_mahasiswa.
 
-Format angka: Nilai tugas, UTS, UAS, dan nilai akhir ditampilkan dengan dua angka di belakang koma.
+Format angka : Nilai tugas, UTS, UAS, dan nilai akhir ditampilkan dengan dua angka di belakang koma.
 
 ## Contoh Output Program 
 
